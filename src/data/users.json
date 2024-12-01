@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "admin1",
+      "email": "admin@studentlodge.com",
+      "password": "admin123",
+      "name": "Admin User",
+      "role": "admin"
+    }
+  ]
+}

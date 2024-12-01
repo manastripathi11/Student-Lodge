@@ -1,0 +1,196 @@
+{
+  "lodges": [
+    {
+      "id": "1",
+      "name": "Sunshine PG",
+      "address": "123 MG Road, Koramangala",
+      "city": "Bengaluru",
+      "monthlyRent": 12000,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+      ],
+      "amenities": ["WiFi", "AC", "Laundry", "Food", "Study Room", "24/7 Security"],
+      "description": "Modern PG accommodation with all amenities and peaceful environment for students",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "2",
+      "name": "Student Haven",
+      "address": "45 Anna Salai",
+      "city": "Chennai",
+      "monthlyRent": 10000,
+      "type": "Mess",
+      "images": [
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      ],
+      "amenities": ["Food", "WiFi", "Study Room", "Power Backup", "Common Area"],
+      "description": "Comfortable accommodation with home-cooked meals and friendly atmosphere",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "3",
+      "name": "Metro Residency",
+      "address": "78 Connaught Place",
+      "city": "Delhi",
+      "monthlyRent": 15000,
+      "type": "Flat",
+      "images": [
+        "https://images.unsplash.com/photo-1502672023488-70e25813eb80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+        "https://images.unsplash.com/photo-1560448075-bb485b067938"
+      ],
+      "amenities": ["Fully Furnished", "AC", "Kitchen", "Balcony", "Lift", "Parking"],
+      "description": "Modern 2BHK flat perfect for sharing, located near metro station",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "4",
+      "name": "Green View PG",
+      "address": "234 Bandra West",
+      "city": "Mumbai",
+      "monthlyRent": 13500,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+      ],
+      "amenities": ["WiFi", "AC", "Food", "Gym", "Laundry", "Housekeeping"],
+      "description": "Premium PG accommodation with modern amenities and sea view",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "5",
+      "name": "Scholar's Nest",
+      "address": "56 Jubilee Hills",
+      "city": "Hyderabad",
+      "monthlyRent": 11000,
+      "type": "Mess",
+      "images": [
+        "https://images.unsplash.com/photo-1560448075-bb485b067938",
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+      ],
+      "amenities": ["Food", "WiFi", "Study Room", "Library", "Garden"],
+      "description": "Peaceful accommodation with library and study facilities",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "6",
+      "name": "City View PG",
+      "address": "12 Park Street, Kolkata",
+      "city": "Kolkata",
+      "monthlyRent": 9000,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+      ],
+      "amenities": ["WiFi", "AC", "Laundry", "Food", "Gym", "Security"],
+      "description": "PG with a beautiful view of the city skyline, great location for students",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "7",
+      "name": "Ocean Breeze PG",
+      "address": "90 Marine Drive, Mumbai",
+      "city": "Mumbai",
+      "monthlyRent": 14000,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+      ],
+      "amenities": ["WiFi", "AC", "Food", "Gym", "Laundry", "Security"],
+      "description": "Sea view PG with all amenities for students looking for a serene environment",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "8",
+      "name": "Star Residency",
+      "address": "75 Phoenix Mall Road, Pune",
+      "city": "Pune",
+      "monthlyRent": 12500,
+      "type": "Flat",
+      "images": [
+        "https://images.unsplash.com/photo-1560448075-bb485b067938",
+        "https://images.unsplash.com/photo-1502672023488-70e25813eb80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+      ],
+      "amenities": ["Fully Furnished", "AC", "Kitchen", "Parking", "Lift", "24/7 Security"],
+      "description": "A 1BHK flat with premium amenities for working professionals and students",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "9",
+      "name": "Golden Gate PG",
+      "address": "234 MG Road, Pune",
+      "city": "Pune",
+      "monthlyRent": 11500,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+      ],
+      "amenities": ["WiFi", "AC", "Laundry", "Food", "Gym", "Housekeeping"],
+      "description": "Comfortable and affordable PG with all essential amenities",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "10",
+      "name": "Sunset PG",
+      "address": "12 Beach Road, Goa",
+      "city": "Goa",
+      "monthlyRent": 13000,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1560448075-bb485b067938",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      ],
+      "amenities": ["WiFi", "AC", "Laundry", "Food", "Gym", "24/7 Security"],
+      "description": "PG with a beautiful beach view and all necessary amenities for students",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "11",
+      "name": "Royal PG",
+      "address": "100 Raj Bhavan Road, Lucknow",
+      "city": "Lucknow",
+      "monthlyRent": 9000,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+      ],
+      "amenities": ["WiFi", "AC", "Laundry", "Food", "Security"],
+      "description": "Affordable and comfortable PG for students near major colleges in Lucknow",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    },
+    {
+      "id": "12",
+      "name": "Skyline PG",
+      "address": "45 Elphinstone Road, Ahmedabad",
+      "city": "Ahmedabad",
+      "monthlyRent": 9500,
+      "type": "PG",
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+      ],
+      "amenities": ["WiFi", "AC", "Laundry", "Food", "Gym", "Housekeeping"],
+      "description": "Modern PG with gym and study facilities, ideal for students",
+      "cities": ["Delhi", "Mumbai", "Bengaluru", "Chennai", "Hyderabad", "Pune", "Kolkata", "Jaipur", "Lucknow", "Ahmedabad", "Indore", "Surat"]
+    }
+  ]
+}
